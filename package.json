@@ -1,8 +1,9 @@
 {
   "name": "clase1",
   "version": "0.0.1",
-  "author": "Ionic Framework",
+  "author": "Luz De Leon - Lab de Aplicaciones Moviles",
   "homepage": "https://ionicframework.com/",
+  "description": "An Ionic project",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -62,6 +63,5 @@
     "protractor": "~7.0.0",
     "ts-node": "~8.3.0",
     "typescript": "~4.2.4"
-  },
-  "description": "An Ionic project"
+  }
 }
